@@ -1,0 +1,10 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\bin\Debug\DatabaseLab_11.dacpac
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\bin\Debug\DatabaseLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\bin\Debug\DatabaseLab_11.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\DatabaseLab_11.sqlprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\Model.xml
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\refactor.xml
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\postdeploy.sql
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\predeploy.sql
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\DatabaseLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\DatabaseLab_11\obj\Debug\DatabaseLab_11.pdb

@@ -1,0 +1,15 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\TestProjectLab_11.dll.config
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\TestProjectLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\TestProjectLab_11.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.csproj.CopyComplete
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.SqlServerUnitTest1.resources
+C:\Users\Ник\source\repos\Csharp_Lab_2\TestProjectLab_11\obj\Debug\TestProjectLab_11.csproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\bin\Debug\Csharp_lab_16_CodedUITest.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\bin\Debug\Csharp_lab_16_CodedUITest.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\obj\Debug\Csharp_lab_16_CodedUITest.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\obj\Debug\Csharp_lab_16_CodedUITest.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\obj\Debug\Csharp_lab_16_CodedUITest.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_16_CodedUITest\obj\Debug\Csharp_lab_16_CodedUITest.pdb

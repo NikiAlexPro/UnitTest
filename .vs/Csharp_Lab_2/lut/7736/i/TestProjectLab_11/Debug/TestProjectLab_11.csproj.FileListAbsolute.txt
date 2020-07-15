@@ -1,0 +1,6 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestProjectLab_11\bin\Debug\TestProjectLab_11.dll.config
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestProjectLab_11\bin\Debug\TestProjectLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestProjectLab_11\Debug\TestProjectLab_11.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestProjectLab_11\Debug\TestProjectLab_11.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestProjectLab_11\Debug\TestProjectLab_11.csproj.CopyComplete
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestProjectLab_11\Debug\TestProjectLab_11.dll

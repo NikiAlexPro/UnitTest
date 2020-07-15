@@ -1,0 +1,16 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\Csharp_lab_15v2.exe.config
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\Csharp_lab_15v2.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\Csharp_lab_15v2.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\EntityFramework.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\EntityFramework.xml
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.Form1.resources
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.Properties.Resources.resources
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.csproj.GenerateResource.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.csproj.CopyComplete
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_15v2\obj\Debug\Csharp_lab_15v2.pdb

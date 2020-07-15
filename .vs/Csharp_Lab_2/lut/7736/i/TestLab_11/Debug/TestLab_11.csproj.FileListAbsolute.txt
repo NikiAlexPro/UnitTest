@@ -1,0 +1,12 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\TestLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\b\TestLab_11\bin\Debug\TestLab_11.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestLab_11\Debug\TestLab_11.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestLab_11\Debug\TestLab_11.csproj.CopyComplete
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestLab_11\Debug\TestLab_11.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\.vs\Csharp_Lab_2\lut\0\i\TestLab_11\Debug\TestLab_11.pdb

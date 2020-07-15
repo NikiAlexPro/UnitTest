@@ -1,0 +1,10 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\bin\Debug\Csharp_lab_2.0.exe.config
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\bin\Debug\Csharp_lab_2.0.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\bin\Debug\Csharp_lab_2.0.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2.0.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2._0.Form1.resources
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2._0.Properties.Resources.resources
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2.0.csproj.GenerateResource.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2.0.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_2.0\obj\Debug\Csharp_lab_2.0.pdb

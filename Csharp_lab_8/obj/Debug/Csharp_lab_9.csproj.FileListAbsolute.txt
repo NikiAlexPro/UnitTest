@@ -1,0 +1,7 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\bin\Debug\Csharp_lab_8.exe.config
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\bin\Debug\Csharp_lab_8.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\bin\Debug\Csharp_lab_8.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\obj\Debug\Csharp_lab_9.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\obj\Debug\Csharp_lab_9.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\obj\Debug\Csharp_lab_8.exe
+C:\Users\Ник\source\repos\Csharp_Lab_2\Csharp_lab_8\obj\Debug\Csharp_lab_8.pdb

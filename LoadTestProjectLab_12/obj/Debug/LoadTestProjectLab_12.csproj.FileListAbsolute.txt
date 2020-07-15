@@ -1,0 +1,14 @@
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTestProjectLab_12.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTestProjectLab_12.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\obj\Debug\LoadTestProjectLab_12.csprojAssemblyReference.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\obj\Debug\LoadTestProjectLab_12.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\obj\Debug\LoadTestProjectLab_12.csproj.CopyComplete
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\obj\Debug\LoadTestProjectLab_12.dll
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\obj\Debug\LoadTestProjectLab_12.pdb
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTest1.loadtest
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTest2.loadtest
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTest3.loadtest
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTest4.loadtest
+C:\Users\Ник\source\repos\Csharp_Lab_2\LoadTestProjectLab_12\bin\Debug\LoadTest5.loadtest
